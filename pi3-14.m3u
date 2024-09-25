@@ -1,7 +1,17 @@
 #EXTM3U
 #EXTINF:#EXTINF:-1 tvg-name="beIN Sport HD 1-AR" tvg-id="beINSPORT" group-title="SPORTS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png",beIN Sport HD 1-AR
-http://n314.ddns.net:25461/live/π3.14/π3.14/17.m3u8
+http://n314.ddns.net:25461/live/3.14/3.14/17.m3u8
 #EXTINF:#EXTINF:-1 tvg-name="beIN Sport HD 2-AR" tvg-id="beINSPORT" group-title="SPORTS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png",beIN Sport HD 2-AR
-http://n314.ddns.net:25461/live/π3.14/π3.14/18.m3u8
+http://n314.ddns.net:25461/live/3.14/3.14/18.m3u8
 #EXTINF:#EXTINF:-1 tvg-name="beIN Sport HD 3-AR" tvg-id="beINSPORT" group-title="SPORTS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png",beIN Sport HD 3-AR
-http://n314.ddns.net:25461/live/π3.14/π3.14/19.m3u8
+http://n314.ddns.net:25461/live/3.14/3.14/19.m3u8
+
+#EXTINF:-1 tvg-id="beIN SPORTS 1.fr" tvg-logo="https://i.ibb.co/hgVx5GL/Bein-1" group-title="CHANNEL | BeIN Sport" , beIn 1 FR
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license={"keys":[{"kty":"oct","kid":"PPaG3EJG8ZvEQZxU2g+QvA","k":"tA9ZkmbIomLM9KOE2tzgig"},{"kty":"oct","kid":"bKLyyCJET/dtlXB0Hex7Kw","k":"n8PXGrMOjTPwnuKeXkU2CA"},{"kty":"oct","kid":"nYsbgZz9z/hFYluGzElo8w","k":"SAsD/kR2vBh8ap1DuoW52w"}]}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/966/1/live.mpd
+
+#EXTINF:-1 tvg-id="beIN SPORTS 1.fr" tvg-logo="https://i.ibb.co/hgVx5GL/Bein-1" group-title="CHANNEL | BeIN Sport" , beIn 1 FR
+#EXTVLCOPT:http-drm-scheme=clearkey
+#EXTVLCOPT:http-drm-license={"keys":[{"kty":"oct","kid":"PPaG3EJG8ZvEQZxU2g+QvA","k":"tA9ZkmbIomLM9KOE2tzgig"},{"kty":"oct","kid":"bKLyyCJET/dtlXB0Hex7Kw","k":"n8PXGrMOjTPwnuKeXkU2CA"},{"kty":"oct","kid":"nYsbgZz9z/hFYluGzElo8w","k":"SAsD/kR2vBh8ap1DuoW52w"}]}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/966/1/live.mpd
