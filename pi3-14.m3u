@@ -1,17 +1,41 @@
 #EXTM3U
-#EXTINF:#EXTINF:-1 tvg-name="beIN Sport HD 1-AR" tvg-id="beINSPORT" group-title="SPORTS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png",beIN Sport HD 1-AR
-http://n314.ddns.net:25461/live/3.14/3.14/17.m3u8
-#EXTINF:#EXTINF:-1 tvg-name="beIN Sport HD 2-AR" tvg-id="beINSPORT" group-title="SPORTS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png",beIN Sport HD 2-AR
-http://n314.ddns.net:25461/live/3.14/3.14/18.m3u8
-#EXTINF:#EXTINF:-1 tvg-name="beIN Sport HD 3-AR" tvg-id="beINSPORT" group-title="SPORTS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png",beIN Sport HD 3-AR
-http://n314.ddns.net:25461/live/3.14/3.14/19.m3u8
-
-#EXTINF:-1 tvg-id="beIN SPORTS 1.fr" tvg-logo="https://i.ibb.co/hgVx5GL/Bein-1" group-title="CHANNEL | BeIN Sport" , beIn 1 FR
-#EXTVLCOPT:http-drm-scheme=clearkey
-#EXTVLCOPT:http-drm-license={"keys":[{"kty":"oct","kid":"PPaG3EJG8ZvEQZxU2g+QvA","k":"tA9ZkmbIomLM9KOE2tzgig"},{"kty":"oct","kid":"bKLyyCJET/dtlXB0Hex7Kw","k":"n8PXGrMOjTPwnuKeXkU2CA"},{"kty":"oct","kid":"nYsbgZz9z/hFYluGzElo8w","k":"SAsD/kR2vBh8ap1DuoW52w"}]}
-https://api-proxad.dc2.oqee.net/playlist/v1/live/966/1/live.mpd
-
-#EXTINF:-1 tvg-id="beIN SPORTS 1.fr" tvg-logo="https://i.ibb.co/hgVx5GL/Bein-1" group-title="CHANNEL | BeIN Sport" , beIn 1 FR
-#EXTVLCOPT:http-drm-scheme=clearkey
-#EXTVLCOPT:http-drm-license={2c63c3841b90c2cbf115969dcf7111c5:b71df119f99ee7127e77a5398d25801e,9d8b1b819cfdcff845625b86cc4968f3:480b03fe4476bc187c6a9d43ba85b9db,3cf686dc4246f19bc4419c54da0f90bc:b40f599266c8a262ccf4a384dadce08a,6ca2f2c822444ff76d9570741dec7b2b:9fc3d71ab30e8d33f09ee29e5e453608}
-https://api-proxad.dc2.oqee.net/playlist/v1/live/966/1/live.mpd
+#EXTINF:0 tvg-logo="" group-title="TEST",Bein Sport1
+#EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+https://ddy6.mizhls.ru/ddy6/premium91/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="" group-title="TEST",Bein Sport2
+#EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+https://ddy6.mizhls.ru/ddy6/premium92/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="" group-title="TEST",Bein Sport3
+#EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+https://ddy6.mizhls.ru/ddy6/premium93/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="" group-title="TEST",Bein Sport4
+#EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+https://ddy6.mizhls.ru/ddy6/premium94/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="" group-title="TEST",Bein Sport5
+#EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+https://ddy6.mizhls.ru/ddy6/premium95/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="" group-title="TEST",Bein Sport6
+#EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+https://ddy6.mizhls.ru/ddy6/premium96/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="" group-title="TEST",Bein Sport7
+#EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+https://ddy6.mizhls.ru/ddy6/premium97/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="" group-title="TEST",Bein Sport8
+#EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+https://ddy6.mizhls.ru/ddy6/premium98/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="" group-title="TEST",Bein Sport9
+#EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+https://ddy6.mizhls.ru/ddy6/premium99/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="" group-title="TEST",Bein Sport10
+#EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+https://ddy6.mizhls.ru/ddy6/premium100/tracks-v1a1/mono.m3u8
